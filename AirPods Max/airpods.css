@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+  color: #000000;
+}
+.airpods-max-text {
+  margin-top: 230px;
+  text-align: center;
+}
+.airpods-max-text-1 {
+  color: #2f2f2f;
+  font-size: 200px;
+}
+.airpods-max-image-1 {
+  position: absolute;
+  background-image: url(./image/1.png);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 700px;
+  height: 800px;
+  margin-left: 350px;
+  margin-top: -465px;
+}
+.airpods-max-text-2 {
+  margin-top: 400px;
+  text-align: center;
+  font-size: 30px;
+  color: #2f2f2f;
+}
+.airpods-max-video {
+  margin-top: 100px;
+}
+.video-1 {
+  width: 100%;
+  height: 100%;
+}
+.radically-original-composition-text {
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.radically-original-composition-text-1 {
+  font-size: 100px;
+  color: #1d1d1d;
+}
+.radically-original-composition-text-2 {
+  margin-left: 600px;
+  margin-top: 40px;
+  line-height: 28px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.radically-original-composition-image {
+  background-image: url(./image/2.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 933px;
+  height: 690px;
+  margin-top: 150px;
+}
+.radically-original-composition-text-3 {
+  margin-left: -200px;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 25px;
+}
+.radically-original-composition-image-1 {
+  display: inline-block;
+  background-image: url(./image/3.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 839px;
+  height: 1321px;
+}
+.radically-original-composition-all-image {
+  margin-top: 100px;
+}
+
+.radically-original-composition-image-2 {
+  position: absolute;
+  display: inline-block;
+  background-image: url(./image/4.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 460px;
+  height: 610px;
+  margin-left: 30px;
+}
+.radically-original-composition-image-3 {
+  position: absolute;
+  display: inline-block;
+  background-image: url(./image/5.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 460px;
+  height: 610px;
+  margin-left: 20px;
+  margin-top: 730px;
+}
