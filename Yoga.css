@@ -1,0 +1,858 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+  color: black;
+}
+
+.Flexible-Mind-and-Body-bg-1 {
+  background-color: #716a49;
+  width: 100%;
+  height: 950px;
+  padding: 0.1px;
+}
+.Flexible-Mind-and-Body-image-1 {
+  background-image: url(./image/1.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 250px;
+  height: 250px;
+  margin-top: 100px;
+  margin-left: 1100px;
+  position: absolute;
+}
+.Flexible-Mind-and-Body-bg-2 {
+  background-color: white;
+  width: 1044px;
+  height: 530px;
+  margin-top: 300px;
+  margin-left: 150px;
+}
+.Flexible-Mind-and-Body-image-2 {
+  background-image: url(./image/2.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 522px;
+  height: 530px;
+  padding: 0.1px;
+}
+.Flexible-Mind-and-Body-text {
+  margin-top: 50px;
+  position: absolute;
+  margin-left: 550px;
+}
+.Flexible-Mind-and-Body-text-1 {
+  color: black;
+  font-size: 50px;
+  font-weight: bold;
+}
+.Flexible-Mind-and-Body-text-2 {
+  color: rgb(47, 47, 47);
+  font-size: 17px;
+  line-height: 35px;
+  margin-top: 40px;
+}
+.Flexible-Mind-and-Body-text-3 {
+  color: rgb(103, 103, 103);
+  margin-top: 30px;
+}
+.Flexible-Mind-and-Body-bg-3 {
+  background-color: #716a49 !important;
+  width: 222px;
+  height: 58px;
+  margin-top: 30px;
+  border-radius: 50px;
+  text-transform: uppercase;
+  padding: 0.1px;
+}
+.Flexible-Mind-and-Body-text-4 {
+  color: white;
+  font-size: 18px;
+  margin-top: 18px;
+  margin-left: 51px;
+}
+.BODY-PRACTICE-bg {
+  background-color: #716a49;
+  width: 100%;
+  height: 501px;
+  padding: 0.1px;
+}
+.BODY-PRACTICE-image-text {
+  margin-top: 70px;
+  margin-left: 100px;
+}
+.BODY-PRACTICE-image {
+  background-image: url(./image/3.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 360px;
+  height: 371px;
+}
+.CHANGES-bg {
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  width: 390px;
+  height: 426px;
+  margin-top: 30px;
+  padding: 0.1px;
+  position: relative;
+  bottom: 170px;
+}
+.CHANGES-text {
+  margin-top: 70px;
+  margin-left: 20px;
+}
+.CHANGES-text-1 {
+  font-size: 28px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(43, 43, 43);
+}
+.CHANGES-text-2 {
+  margin-top: 30px;
+  font-size: 16px;
+  color: rgb(108, 108, 108);
+  line-height: 25px;
+}
+.CHANGES-link {
+  position: relative;
+  top: 35px;
+}
+.BODY-PRACTICE-image-2 {
+  display: inline-block;
+  background-image: url(./image/4.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 360px;
+  height: 365px;
+  margin-top: -200px;
+  position: absolute;
+  margin-left: 50px;
+}
+.YOGA-IS-A-MIND {
+  display: inline-block;
+}
+.YOGA-IS-A-MIND-text {
+  display: inline-block;
+  margin-top: 250px;
+}
+.YOGA-IS-A-MIND-text-1 {
+  display: inline-block;
+  position: relative;
+  top: -550px;
+  left: 450px;
+  font-size: 27px;
+  color: white;
+}
+.YOGA-IS-A-MIND-text-2 {
+  position: relative;
+  top: -520px;
+  left: 450px;
+  font-size: 18px;
+  line-height: 25px;
+  color: white;
+}
+.YOGA-IS-A-MIND-link {
+  position: relative;
+  top: -500px;
+  left: 450px;
+  font-size: 16px;
+  line-height: 25px;
+  color: white;
+}
+.BODY-PRACTICE-image-3 {
+  background-image: url(./image/5.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 390px;
+  height: 374px;
+  position: absolute;
+  margin-top: -540px;
+  margin-left: 830px;
+}
+.Why-is-yoga-usefull-image {
+  display: inline-block;
+  margin-top: 600px;
+  margin-left: 150px;
+}
+.Why-is-yoga-usefull-img-1 {
+  background-image: url(./image/6.jpg);
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 309px;
+  height: 252px;
+}
+.Why-is-yoga-usefull-img-2 {
+  background-image: url(./image/7.jpg);
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 309px;
+  height: 252px;
+  margin-top: 20px;
+}
+.Why-is-yoga-usefull-image-2 {
+  display: inline-block;
+  position: relative;
+  bottom: 110px;
+  left: 15px;
+}
+.Why-is-yoga-usefull-img-3 {
+  display: inline-block;
+  background-image: url(./image/8.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 365px;
+  height: 415px;
+}
+.Why-is-yoga-usefull-bg-1 {
+  display: inline-block;
+  position: absolute;
+  margin-top: 600px;
+  margin-left: 50px;
+  background-color: white;
+  width: 442px;
+  height: 519px;
+  padding: 0.1px;
+}
+.Why-is-yoga-usefull-text {
+  margin-top: 60px;
+  margin-left: 27px;
+}
+.Why-is-yoga-usefull-text-1 {
+  font-size: 50px;
+}
+.Why-is-yoga-usefull-text-2 {
+  font-size: 16px;
+  margin-top: 20px;
+  line-height: 24px;
+}
+.Why-is-yoga-usefull-bg-2 {
+  background-color: aquamarine;
+  width: 93px;
+  height: -9px;
+  padding: 21px;
+  margin-top: 20px;
+}
+button {
+  position: relative;
+  background: #444;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: none;
+  letter-spacing: 0.1rem;
+  font-size: 1rem;
+  padding: 1rem 2rem;
+  transition: 0.2s;
+  margin-top: 45px;
+}
+
+button:hover {
+  letter-spacing: 0.2rem;
+  padding: 1.1rem 2.1rem;
+  background: var(--clr);
+  color: var(--clr);
+  /* box-shadow: 0 0 35px var(--clr); */
+  animation: box 3s infinite;
+}
+
+button::before {
+  content: "";
+  position: absolute;
+  inset: 2px;
+  background: #181818;
+}
+
+button span {
+  position: relative;
+  z-index: 1;
+  color: #fff;
+}
+button i {
+  position: absolute;
+  inset: 0;
+  display: block;
+}
+
+button i::before {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 2px;
+  left: 80%;
+  top: -2px;
+  border: 2px solid var(--clr);
+  background: #272822;
+  transition: 0.2s;
+}
+
+button:hover i::before {
+  width: 15px;
+  left: 20%;
+  animation: move 3s infinite;
+}
+
+button i::after {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 2px;
+  left: 20%;
+  bottom: -2px;
+  border: 2px solid var(--clr);
+  background: #272822;
+  transition: 0.2s;
+}
+
+button:hover i::after {
+  width: 15px;
+  left: 80%;
+  animation: move 3s infinite;
+}
+
+@keyframes move {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(5px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes box {
+  0% {
+    box-shadow: #27272c;
+  }
+  50% {
+    box-shadow: 0 0 25px var(--clr);
+  }
+  100% {
+    box-shadow: #27272c;
+  }
+}
+.Yoga-Classes-text-1 {
+  text-align: center;
+  margin-top: 90px;
+  font-size: 50px;
+  font-weight: bold;
+}
+.all-bg-img-text-logo {
+  margin-left: -15px;
+}
+.HATHA-YOGA {
+  display: inline-block;
+  margin-top: 120px;
+  margin-left: 150px;
+}
+.HATHA-YOGA-image {
+  background-image: linear-gradient(
+      0deg,
+      rgba(51, 49, 41, 0.5),
+      rgba(51, 49, 41, 0.415)
+    ),
+    url(./image/9.jpg);
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 270px;
+  height: 348px;
+  padding: 0.1px;
+}
+.HATHA-YOGA-text {
+  color: white;
+  font-size: 25px;
+  margin-top: 110px;
+  text-align: center;
+}
+.HATHA-YOGA-logo {
+  background-image: url(./image/10.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 130px;
+  height: 130px;
+  margin-left: 75px;
+  margin-top: 50px;
+}
+.VIRTUAL-CLASSES {
+  position: absolute;
+  display: inline-block;
+  margin-top: 120px;
+  margin-left: 30px;
+}
+.VIRTUAL-CLASSES-image {
+  background-image: linear-gradient(
+      0deg,
+      rgba(51, 49, 41, 0.5),
+      rgba(51, 49, 41, 0.415)
+    ),
+    url(./image/11.jpg);
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 270px;
+  height: 348px;
+  padding: 0.1px;
+}
+.VIRTUAL-CLASSES-text {
+  color: white;
+  font-size: 25px;
+  margin-top: 100px;
+  text-align: center;
+}
+.VIRTUAL-CLASSES-logo {
+  background-image: url(./image/10.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 130px;
+  height: 130px;
+  margin-left: 75px;
+  margin-top: 50px;
+}
+.ALL-CLASSES {
+  position: absolute;
+  display: inline-block;
+  margin-top: 120px;
+  margin-left: 330px;
+}
+.ALL-CLASSES-image {
+  background-image: linear-gradient(
+      0deg,
+      rgba(51, 49, 41, 0.5),
+      rgba(51, 49, 41, 0.415)
+    ),
+    url(./image/12.jpg);
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 270px;
+  height: 348px;
+  padding: 0.1px;
+}
+.ALL-CLASSES-text {
+  color: white;
+  font-size: 25px;
+  margin-top: 110px;
+  text-align: center;
+}
+.ALL-CLASSES-logo {
+  background-image: url(./image/10.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 130px;
+  height: 130px;
+  margin-left: 75px;
+  margin-top: 50px;
+}
+.MEDITATION {
+  position: absolute;
+  display: inline-block;
+  margin-top: 120px;
+  margin-left: 630px;
+}
+.MEDITATION-image {
+  background-image: linear-gradient(
+      0deg,
+      rgba(51, 49, 41, 0.5),
+      rgba(51, 49, 41, 0.415)
+    ),
+    url(./image/13.jpg);
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 270px;
+  height: 348px;
+  padding: 0.1px;
+}
+.MEDITATION-text {
+  color: white;
+  font-size: 25px;
+  margin-top: 110px;
+  text-align: center;
+}
+.MEDITATION-logo {
+  background-image: url(./image/10.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 130px;
+  height: 130px;
+  margin-left: 75px;
+  margin-top: 50px;
+}
+button {
+  position: relative;
+  background: #444;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: none;
+  letter-spacing: 0.1rem;
+  font-size: 1rem;
+  padding: 1rem 2rem;
+  transition: 0.2s;
+  margin-top: 45px;
+}
+
+button:hover {
+  letter-spacing: 0.2rem;
+  padding: 1.1rem 2.1rem;
+  background: var(--clr);
+  color: var(--clr);
+  /* box-shadow: 0 0 35px var(--clr); */
+  animation: box 3s infinite;
+}
+
+button::before {
+  content: "";
+  position: absolute;
+  inset: 2px;
+  background: #181818;
+}
+
+button span {
+  position: relative;
+  z-index: 1;
+  color: #fff;
+}
+button i {
+  position: absolute;
+  inset: 0;
+  display: block;
+}
+
+button i::before {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 2px;
+  left: 80%;
+  top: -2px;
+  border: 2px solid var(--clr);
+  background: #272822;
+  transition: 0.2s;
+}
+
+button:hover i::before {
+  width: 15px;
+  left: 20%;
+  animation: move 3s infinite;
+}
+
+button i::after {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 2px;
+  left: 20%;
+  bottom: -2px;
+  border: 2px solid var(--clr);
+  background: #272822;
+  transition: 0.2s;
+}
+
+button:hover i::after {
+  width: 15px;
+  left: 80%;
+  animation: move 3s infinite;
+}
+
+@keyframes move {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(5px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes box {
+  0% {
+    box-shadow: #27272c;
+  }
+  50% {
+    box-shadow: 0 0 25px var(--clr);
+  }
+  100% {
+    box-shadow: #27272c;
+  }
+}
+.button-2 {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.Power-of-Global-text {
+  margin-top: 70px;
+}
+.Power-of-Global-text-1 {
+  text-align: center;
+  font-size: 35px;
+  color: #4a5255;
+}
+.Power-of-Global-image-bg {
+  margin-top: 100px;
+  margin-left: 140px;
+}
+.Power-of-Global-image-1 {
+  display: inline-block;
+  background-image: url(./image/14.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 225px;
+  height: 225px;
+  border-radius: 50% !important;
+}
+.Power-of-Global-image-2 {
+  display: inline-block;
+  background-image: url(./image/15.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 225px;
+  height: 225px;
+  border-radius: 50% !important;
+  margin-left: 70px;
+}
+.Power-of-Global-bg-1 {
+  display: inline-block;
+  background-color: #716a49;
+  width: 285px;
+  height: 290px;
+  padding: 0.1px;
+  margin-left: 50px;
+  position: absolute;
+  margin-top: -50px;
+}
+.Power-of-Global-text-2 {
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  margin-top: 70px;
+  line-height: 27px;
+}
+.Power-of-Global-image-3 {
+  position: absolute;
+  display: inline-block;
+  background-image: url(./image/16.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 225px;
+  height: 225px;
+  border-radius: 50% !important;
+  margin-left: 390px;
+}
+.About-Team-bg {
+  background-color: #716a49;
+  width: 100%;
+  height: 884px;
+  margin-top: 100px;
+  padding: 0.1px;
+}
+.About-Team-bg-2 {
+  display: inline-block;
+  background-color: #716a49;
+  width: 646px;
+  height: 650px;
+  margin-top: 120px;
+  margin-left: 100px;
+  padding: 0.1px;
+}
+.About-Team-logo-1 {
+  background-image: url(./image/1.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 110px;
+  height: 110px;
+  margin-top: 70px;
+  margin-left: 50px;
+}
+.About-Team-text {
+  margin-left: 60px;
+  margin-top: 30px;
+}
+.About-Team-text-1 {
+  font-size: 45px;
+  color: white;
+  font-weight: bold;
+}
+.About-Team-text-2 {
+  margin-top: 15px;
+  color: rgb(209, 207, 207);
+  line-height: 35px;
+  font-size: 18px;
+}
+.About-Team-link {
+  background-color: #e5e5e5 !important;
+  position: absolute;
+  width: 128px;
+  height: 18px;
+  text-align: center;
+  padding: 16px;
+  font-size: 17px;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-top: 30px;
+}
+.About-image {
+  display: inline-block;
+  position: absolute;
+  background-image: url(./image/17.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 570px;
+  height: 764px;
+  margin-top: 60px;
+}
+.Our-Masters {
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.Our-Masters-text {
+  display: inline-block;
+  position: relative;
+  top: 250px;
+}
+.Our-Masters-text-1 {
+  font-size: 45px;
+  color: #272822;
+}
+.Our-Masters-text-2 {
+  font-size: 17px;
+  line-height: 25px;
+  margin-top: 20px;
+}
+.Our-Masters-image {
+  display: inline-block;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+.Our-Masters-img-1 {
+  display: inline-block;
+  background-image: url(./image/18.jpeg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 247px;
+  height: 247px;
+  border-radius: 50%;
+}
+.Our-Masters-img-2 {
+  display: inline-block;
+  background-image: url(./image/19.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 247px;
+  height: 247px;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+.Our-Masters-image-2 {
+  display: inline-block;
+  margin-left: 592px;
+  margin-top: 30px;
+}
+.Our-Masters-img-3 {
+  display: inline-block;
+  background-image: url(./image/20.jpeg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 247px;
+  height: 247px;
+  border-radius: 50%;
+  /* margin-left: 100px; */
+}
+.Our-Masters-img-4 {
+  display: inline-block;
+  background-image: url(./image/21.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 247px;
+  height: 247px;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+.yoga-image {
+  margin-top: 50px;
+}
+.yoga-img-1 {
+  display: inline-block;
+  background-image: url(./image/22.jpeg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 474px;
+  height: 627px;
+}
+.yoga-img-2 {
+  display: inline-block;
+  background-image: url(./image/23.jpeg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 474px;
+  height: 627px;
+}
+.yoga-img-3 {
+  display: inline-block;
+  background-image: url(./image/24.jpeg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 450px;
+  height: 627px;
+}
+.yoga-bg {
+  background-color: #333333;
+  color: #ffff;
+  width: 100%;
+  height: 240px;
+  padding: 0.1px;
+}
+.yoga-bg-text {
+  color: #ffffff;
+  text-align: center;
+  margin-top: 50px;
+}
+.yoga-bg-text-1 {
+  color: #fff;
+  font-size: 15px;
+}
+.yoga-bg-text-no-2 {
+  font-size: 13px;
+  margin-top: 80px;
+  text-align: center;
+  color: #fff;
+}
+.yoga-bg-text-no-2-text-2 {
+  font-size: 13px;
+  color: #478ac9;
+}
+.yoga-bg-text-no-2-text-3 {
+  font-size: 13px;
+  color: #478ac9;
+}
