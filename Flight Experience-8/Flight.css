@@ -1,0 +1,506 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+  color: #cecece;
+}
+.Comparing-image {
+  background-image: url(./image/1.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 845px;
+  padding: 0.1px;
+}
+.Comparing-image-text {
+  margin-top: 250px;
+}
+.comparing-text-1 {
+  text-align: center;
+  font-size: 55px;
+  color: white;
+}
+.comparing-text-2 {
+  text-align: center;
+  margin-top: 30px;
+  margin-left: -50px;
+}
+.Comparing-bg {
+  background-color: #3e4a59;
+  width: 100%;
+  height: 360px;
+  padding: 0.1px;
+}
+.comparing-text-3 {
+  margin-top: 150px;
+  margin-left: 100px;
+  font-size: 21px;
+}
+.Comparing-link {
+  background-color: rgb(100, 100, 100);
+  width: 80px;
+  height: 20px;
+  padding: 15px 29px;
+  margin-left: 1100px;
+  position: absolute;
+  margin-top: -80px;
+  text-decoration: none;
+}
+.Onboard-amenities-bg {
+  display: inline-block;
+  background-color: black;
+  width: 5px;
+  height: 78px;
+  /* margin-top: 211px; */
+  margin-left: 250px;
+  position: relative;
+  top: -291px;
+}
+.Onboard-amenities-text-no-1 {
+  position: absolute;
+  display: inline-block;
+  margin-top: 210px;
+  margin-left: 30px;
+  color: black;
+}
+.Onboard-amenities-text-1 {
+  color: black;
+}
+.Onboard-amenities-text-2 {
+  color: black;
+  font-size: 32px;
+  margin-top: 5px;
+}
+.Onboard-amenities-text-3 {
+  color: #535353;
+  font-size: 14px;
+  margin-top: 20px;
+}
+.Onboard-amenities-link {
+  color: blanchedalmond;
+  background-color: #535353;
+  padding: 20px 15px;
+}
+.Onboard-amenities-text-4 {
+  color: #535353;
+  font-size: 14px;
+  margin-top: 20px;
+}
+.Onboard-amenities-link {
+  color: blanchedalmond;
+  background-color: #535353;
+  padding: 20px 15px;
+}
+.Onboard-amenities-text-5 {
+  color: #535353;
+  font-size: 14px;
+  margin-top: 20px;
+}
+.Onboard-amenities-link {
+  color: white;
+  background-color: #3e4a59 !important;
+  padding: 13px 20px;
+  margin-top: 30px;
+  position: absolute;
+  text-decoration: none;
+  font-size: 13px;
+}
+.Onboard-amenities-image-1 {
+  display: inline-block;
+  background-image: url(./image/2.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 570px;
+  height: 575px;
+  margin-left: 525px;
+}
+.Aircraft-image {
+  background-image: linear-gradient(
+      0deg,
+      rgba(76, 99, 127, 0.5),
+      rgba(76, 99, 127, 0.5)
+    ),
+    url(./image/3.jpeg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 275.99px;
+  margin-top: 50px;
+  padding: 0.1px;
+  text-align: center;
+}
+.Aircraft-no-1 {
+  display: inline-block;
+  margin-top: 150px;
+  font-size: 30px;
+  color: white;
+}
+.Aircraft-text-1 {
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.Aircraft-text-2 {
+  color: white;
+  font-size: 20px;
+  margin-left: 13px;
+  margin-top: 10px;
+}
+.Aircraft-no-2 {
+  display: inline-block;
+  margin-top: 150px;
+  margin-left: 150px;
+  font-size: 30px;
+  color: white;
+}
+.Aircraft-text-3 {
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.Aircraft-text-4 {
+  color: white;
+  font-size: 20px;
+  margin-left: 13px;
+  margin-top: 10px;
+}
+.Aircraft-no-3 {
+  display: inline-block;
+  margin-top: 150px;
+  margin-left: 150px;
+  font-size: 30px;
+  color: white;
+}
+.Aircraft-text-5 {
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.Aircraft-text-6 {
+  color: white;
+  font-size: 20px;
+  margin-left: 13px;
+  margin-top: 10px;
+}
+.Aircraft-no-4 {
+  display: inline-block;
+  margin-top: 150px;
+  margin-left: 150px;
+  font-size: 30px;
+  color: white;
+}
+.Aircraft-text-7 {
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.Aircraft-text-8 {
+  color: white;
+  font-size: 20px;
+  margin-left: 13px;
+  margin-top: 10px;
+}
+.Overhead-bin-space-bg {
+  display: inline-block;
+  background-color: black;
+  width: 5px;
+  height: 78px;
+  /* margin-top: 211px; */
+  margin-left: 250px;
+  position: relative;
+  top: -330px;
+}
+.Overhead-bin-space-text-no-1 {
+  position: absolute;
+  display: inline-block;
+  margin-top: 170px;
+  margin-left: 30px;
+  color: black;
+}
+.Overhead-bin-space-text-1 {
+  color: black;
+}
+.Overhead-bin-space-text-2 {
+  color: black;
+  font-size: 32px;
+  margin-top: 5px;
+}
+.Overhead-bin-space-text-3 {
+  color: #535353;
+  font-size: 14px;
+  margin-top: 20px;
+}
+.Overhead-bin-space-link {
+  color: blanchedalmond;
+  background-color: #535353;
+  padding: 20px 15px;
+}
+.Overhead-bin-space-text-4 {
+  color: #535353;
+  font-size: 14px;
+  margin-top: 20px;
+}
+.Overhead-bin-space-link {
+  color: blanchedalmond;
+  background-color: #535353;
+  padding: 20px 15px;
+}
+.Overhead-bin-space-text-5 {
+  color: #535353;
+  font-size: 14px;
+  margin-top: 20px;
+}
+.Overhead-bin-space-link {
+  color: white;
+  background-color: #3e4a59 !important;
+  padding: 13px 20px;
+  margin-top: 30px;
+  position: absolute;
+  text-decoration: none;
+  font-size: 13px;
+}
+.Overhead-bin-space-image-1 {
+  display: inline-block;
+  background-image: linear-gradient(
+      0deg,
+      rgba(115, 163, 222, 0.2),
+      rgba(115, 163, 222, 0.2)
+    ),
+    url(./image/4.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 570px;
+  height: 575px;
+  margin-left: 525px;
+}
+
+.apps-bg {
+  text-align: center;
+  background-color: #3e4a59;
+  width: 100%;
+  height: 300px;
+  margin-top: 50px;
+  padding: 0.1px;
+}
+.Mobile-apps {
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 0px;
+}
+.Mobile-apps-image {
+  background-image: url(./image/5.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 63.99px;
+  height: 63.99px;
+  margin-left: 50px;
+}
+.Mobile-apps-text {
+  color: white;
+  font-size: 27px;
+  margin-top: 20px;
+}
+.Mobile-apps-bg {
+  background-color: #73a3de;
+  width: 80.99px;
+  height: 6.67px;
+  margin-left: 35px;
+  margin-top: 15px;
+}
+.Outlets-apps {
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.Outlets-apps-image {
+  background-image: url(./image/6.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 63.99px;
+  height: 63.99px;
+  margin-left: 50px;
+}
+.Outlets-apps-text {
+  color: white;
+  font-size: 27px;
+  margin-top: 20px;
+  margin-left: 35px;
+}
+.Outlets-apps-bg {
+  background-color: #73a3de;
+  width: 80.99px;
+  height: 6.67px;
+  margin-left: 45px;
+  margin-top: 15px;
+}
+.Connections-apps {
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.Connections-apps-image {
+  background-image: url(./image/7.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 63.99px;
+  height: 63.99px;
+  margin-left: 55px;
+}
+.Connections-apps-text {
+  color: white;
+  font-size: 27px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.Connections-apps-bg {
+  background-color: #73a3de;
+  width: 80.99px;
+  height: 6.67px;
+  margin-left: 48px;
+  margin-top: 15px;
+}
+.Lounges-apps {
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.Lounges-apps-image {
+  background-image: url(./image/8.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 63.99px;
+  height: 63.99px;
+  margin-left: 55px;
+}
+.Lounges-apps-text {
+  color: white;
+  font-size: 27px;
+  margin-top: 20px;
+}
+.Lounges-apps-bg {
+  background-color: #73a3de;
+  width: 80.99px;
+  height: 6.67px;
+  margin-left: 43px;
+  margin-top: 15px;
+}
+
+.Lounges-image-1 {
+  display: inline-block;
+  background-image: url(./image/9.jpeg);
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 560px;
+  height: 560px;
+  margin-top: 80px;
+  margin-left: 200px;
+}
+.Lounges-text-image-bg {
+  display: inline-block;
+  position: absolute;
+  margin-top: 37px;
+  margin-left: 40px;
+}
+.Lounges-bg-1 {
+  display: inline-block;
+  background-color: black;
+  width: 6.67px;
+  height: 72.99px;
+  margin-top: 45px;
+  position: absolute;
+}
+
+.Lounges-text-1 {
+  color: black;
+}
+.Lounges-text-2 {
+  color: black;
+  font-size: 32px;
+  margin-top: 5px;
+}
+.Lounges-text-3 {
+  color: #535353;
+  font-size: 14px;
+  margin-top: 20px;
+}
+.Lounges-link {
+  color: blanchedalmond;
+  background-color: #535353;
+  padding: 20px 15px;
+}
+.Lounges-text-4 {
+  color: #535353;
+  font-size: 14px;
+  margin-top: 20px;
+}
+.Lounges-link {
+  color: blanchedalmond;
+  background-color: #535353;
+  padding: 20px 15px;
+}
+.Lounges-link {
+  color: white;
+  background-color: #3e4a59 !important;
+  padding: 13px 20px;
+  margin-top: 30px;
+  position: absolute;
+  text-decoration: none;
+  font-size: 13px;
+}
+.Lounges-text {
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.Lounges-image-2 {
+  display: inline-block;
+  position: absolute;
+  margin-top: 418px;
+  margin-left: 40px;
+}
+.Lounges-img-1 {
+  display: inline-block;
+  background-image: url(./image/10.jpeg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 223px;
+  height: 222px;
+}
+.Lounges-img-2 {
+  display: inline-block;
+  background-image: url(./image/11.jpeg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 223px;
+  height: 222px;
+  margin-left: 10px;
+}
+.Template-bg {
+  background-color: #333333;
+  width: 100%;
+  height: 97.99px;
+  margin-top: 80px;
+  padding: 0.1px;
+}
+.Template-text-1 {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 12px;
+}
+.Template-text-2 {
+  font-size: 14px;
+  color: #5891d8;
+}
+.Template-text-3 {
+  font-size: 14px;
+  color: #5891d8;
+}
