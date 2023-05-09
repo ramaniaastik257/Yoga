@@ -125,3 +125,83 @@
   font-weight: bold;
   color: #d1e8fd;
 }
+.Five-colours-text {
+  margin-top: 100px;
+  margin-left: 150px;
+}
+.Five-colours-text-1 {
+  font-size: 68px;
+  font-weight: bold;
+  color: #1d1d1f;
+}
+.Five-colours-image {
+  margin-top: 50px;
+}
+.Five-colours-img-1 {
+  display: inline-block;
+  background-image: url(./image/7.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 839px;
+  height: 691px;
+}
+.Five-colours-img-2 {
+  display: inline-block;
+  background-image: url(./image/8.jpg);
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 310px;
+  height: 526px;
+  position: relative;
+  bottom: 103px;
+}
+.Sounds-bg {
+  background-color: black;
+  width: 100%;
+  height: 6600px;
+  margin-top: 70px;
+  padding: 0.1px;
+}
+.Sounds-text {
+  margin-top: 100px;
+}
+.Sounds-text-1 {
+  color: white;
+  font-size: 90px;
+  margin-left: 100px;
+  font-weight: bold;
+}
+.Sounds-text-2 {
+  color: white;
+  margin-left: 800px;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 26px;
+}
+.Sounds-img-1 {
+  background-image: url(./image/9.jpg);
+  background-position: 100 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 777px;
+  height: 966px;
+}
+.Sounds-no-2-text {
+  margin-top: 150px;
+  margin-left: 250px;
+}
+.Sounds-no-2-text-1 {
+  color: white;
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+.Sounds-no-2-text-2 {
+  color: #6e6e73;
+  margin-top: 40px;
+  font-size: 20 px;
+  font-weight: bold;
+  line-height: 26px;
+}
