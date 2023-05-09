@@ -106,3 +106,22 @@
   margin-left: 20px;
   margin-top: 730px;
 }
+.AirPods-Max-Digital-Crown {
+  margin-top: 250px;
+}
+.AirPods-Max-Digital-Crown-image {
+  background-image: url(./image/6.jpg);
+  background-position: 50% 0%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 700px;
+  padding: 0.1px;
+}
+.AirPods-Max-Digital-Crown-text {
+  text-align: center;
+  margin-top: 550px;
+  font-size: 19px;
+  font-weight: bold;
+  color: #d1e8fd;
+}
