@@ -160,7 +160,7 @@
 .Sounds-bg {
   background-color: black;
   width: 100%;
-  height: 6600px;
+  height: 4880px;
   margin-top: 70px;
   padding: 0.1px;
 }
@@ -204,4 +204,210 @@
   font-size: 20 px;
   font-weight: bold;
   line-height: 26px;
+}
+.Sounds-no-3-image-1 {
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.Sounds-no-3-img-1:hover {
+  width: 820px;
+  height: 1280px;
+  filter: brightness(80%);
+}
+.Sounds-no-3-img-1 {
+  display: inline-block;
+  background-image: url(./image/10.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 839px;
+  height: 1321px;
+  transition: 0.8s;
+}
+.Sounds-no-3-img-2:hover {
+  width: 430px;
+  height: 560px;
+  filter: brightness(80%);
+}
+.Sounds-no-3-img-2 {
+  display: inline-block;
+  position: absolute;
+  background-image: url(./image/11.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 460px;
+  height: 610px;
+  margin-left: 30px;
+  transition: 0.8s;
+}
+.Sounds-no-3-text-1 {
+  color: #6e6e73;
+}
+.Sounds-no-3-text {
+  display: inline-block;
+  position: absolute;
+  margin-top: 650px;
+  margin-left: 30px;
+  font-size: 19px;
+  font-weight: bold;
+}
+.Sounds-no-3-text-2 {
+  color: #a2a2a7;
+  margin-top: 25px;
+}
+.Sounds-no-4-text {
+  margin-top: 48px;
+  margin-left: 65px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.sounds-no-4-text-1 {
+  color: #a2a2a7;
+}
+.sounds-no-5-image {
+  margin-top: 200px;
+  margin-left: 100px;
+}
+.sounds-no-5-img-1 {
+  background-image: url(./image/13.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1105px;
+  padding: 0.1px;
+  height: 1061px;
+}
+.sounds-no-5-img-2 {
+  background-image: url(./image/14.png);
+  /* background-position: 20% 0; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1000px;
+  height: 384px;
+  margin-left: 127px;
+  margin-top: -125px;
+}
+.sounds-no-5-img-3 {
+  background-image: url(./image/15.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 988px;
+  height: 634px;
+  margin-top: 86px;
+  margin-left: 65px;
+  filter: brightness(40%);
+}
+.sounds-no-5-text {
+  margin-top: -352px;
+  margin-left: 100px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.sounds-no-5-text-1 {
+  color: #a2a2a7;
+}
+.sounds-no-5-text-2 {
+  color: #6e6e73;
+  margin-top: 22px;
+}
+.Elaborately-simple-no-1-text {
+  margin-top: 150px;
+  margin-left: 150px;
+}
+.Elaborately-simple-no-1-text-1 {
+  font-size: 135px;
+  font-weight: bold;
+}
+.Elaborately-simple-no-1-text-2 {
+  margin-left: 617px;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 29px;
+  margin-top: 35px;
+}
+.Elaborately-simple-no-2-image {
+  margin-top: 80px;
+  display: inline-block;
+}
+.Elaborately-simple-no-2-img-1 {
+  display: inline-block;
+  background-image: url(./image/18.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 999px;
+  height: 900px;
+  padding: 0.1px;
+}
+.Elaborately-simple-no-2-text-1 {
+  display: inline-block;
+  margin-top: 491px;
+  margin-left: 995px;
+  width: 256px;
+  font-size: 21px;
+  font-weight: bold;
+  color: #1d1d1f;
+}
+.Smart-Case-no-1-text {
+  margin-top: 100px;
+  text-align: center;
+}
+.Smart-Case-no-1-text-1 {
+  text-align: center;
+  font-size: 75px;
+}
+.Smart-Case-no-1-text-2 {
+  margin-top: 45px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #686868;
+}
+.Smart-Case-no-2-img {
+  background-image: url(./image/19.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 958px;
+  height: 870px;
+  margin-left: 241px;
+  margin-top: 100px;
+}
+.Smart-Case-no-3-text {
+  margin-top: 200px;
+}
+.Smart-Case-no-3-text-1 {
+  text-align: center;
+  font-size: 80px;
+}
+.Smart-Case-no-3-text-2 {
+  text-align: center;
+  font-size: 550px;
+  font-weight: bold;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.Smart-Case-no-3-text-3 {
+  font-size: 21px;
+  text-align: center;
+  font-weight: bold;
+  color: #3a3a3a;
+}
+.Smart-Case-bg {
+  background-color: #3a3a3a;
+  width: 100%;
+  height: 200px;
+  margin-top: 50px;
+  padding: 0.1px;
+}
+.Smart-Case-bg-text {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 15px;
+}
+.Smart-Case-bg-text-1 {
+  color: rgb(0, 12, 144);
+}
+.Smart-Case-bg-text-2 {
+  color: rgb(0, 12, 144);
 }
