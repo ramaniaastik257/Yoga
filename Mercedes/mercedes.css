@@ -1,0 +1,173 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+  color: #ffffff;
+}
+.The-new-marcedes-bg-1 {
+  background-color: #000000;
+  width: 100%;
+  height: 120px;
+  padding: 0.1px;
+}
+.The-new-marcedes-img-1 {
+  background-image: url(./image/1.avif);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 560px;
+  padding: 0.1px;
+}
+.The-new-marcedes-ul {
+  text-align: center;
+  color: aliceblue;
+  margin-top: 50px;
+  margin-left: -60px;
+}
+.The-new-marcedes-li-1 {
+  color: aliceblue;
+  display: inline-block;
+}
+.The-new-marcedes-a-1 {
+  color: rgb(11, 109, 195);
+  text-decoration: none;
+  margin-left: 50px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.The-new-marcedes-a-1:hover {
+  color: red;
+  font-size: 19px;
+  transition: 0.7s;
+}
+.The-new-marcedes-li-2 {
+  color: aliceblue;
+  display: inline-block;
+}
+.The-new-marcedes-a-2 {
+  color: aliceblue;
+  text-decoration: none;
+  margin-left: 50px;
+  font-weight: bold;
+  font-size: 17px;
+}
+.The-new-marcedes-a-2:hover {
+  color: #00adef;
+  font-size: 16px;
+  transition: 0.5s;
+}
+.The-new-marcedes-text {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.The-new-marcedes-text-1 {
+  color: rgb(220, 220, 220);
+  font-size: 40px;
+}
+.The-new-marcedes-text-2 {
+  color: rgb(255, 255, 255);
+  font-size: 19px;
+  margin-top: 10px;
+}
+.All-marcedes-bg {
+  background-color: #020000;
+  width: 100%;
+  height: 5676px;
+  padding: 0.1px;
+}
+.Vehicle-highlights-text {
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.Vehicle-highlights-text-1 {
+  font-size: 18px;
+}
+.Vehicle-highlights-text-1:hover {
+  color: rgb(206, 155, 97);
+  font-size: 17px;
+  transition: 0.4s;
+}
+.Vehicle-highlights-text-2 {
+  margin-top: 40px;
+}
+.Vehicle-highlights-text-3 {
+  font-size: 15px;
+  line-height: 24px;
+  margin-top: 20px;
+}
+.Mercedes-Maybach-wheel-range {
+  margin-top: 100px;
+  margin-left: 300px;
+}
+.Mercedes-Maybach-wheel-range-image {
+  background-image: url(./image/2.avif);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: 500px;
+  width: 432px;
+  height: 243px;
+  transition: 0.5s;
+}
+.Mercedes-Maybach-wheel-range-image:hover {
+  background-repeat: no-repeat;
+  background-size: 450px;
+  filter: brightness(70%);
+}
+.Mercedes-Maybach-wheel-range-text {
+  margin-top: 10px;
+}
+.Mercedes-Maybach-wheel-range-text:hover {
+  color: rgb(206, 155, 97);
+}
+.Interior-Assistant-image {
+  background-image: url(./image/3.avif);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 662px;
+  height: 371px;
+}
+.Interior-Assistant-image:hover {
+  filter: brightness(60%);
+  transition: 0.5s;
+}
+.Interior-Assistant {
+  margin-top: 120px;
+  margin-left: 75px;
+}
+.Interior-Assistant-text {
+  margin-top: 10px;
+}
+.Interior-Assistant-text:hover {
+  color: rgb(206, 155, 97);
+}
+.wheel-interior {
+  display: inline-block;
+  margin-left: -50px;
+}
+.statement-wood {
+  display: inline-block;
+  position: absolute;
+  margin-left: 50px;
+}
+.brilliant-statement {
+  margin-top: 100px;
+  display: inline-block;
+}
+.brilliant-statement-image {
+  display: inline-block;
+  background-image: url(./image/4.avif);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 662px;
+  height: 371px;
+  transition: 0.8s;
+}
+.brilliant-statement-image:hover {
+  transition: 0.5s;
+  filter: brightness(70%);
+}
