@@ -1,0 +1,626 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@600;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway", sans-serif;
+    color: #cecece;
+}
+
+.Memberships-image {
+    background-image: url(./image/1.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    min-height: 773px;
+    padding: 0.1px;
+    width: auto;
+    background-position-x: 72%;
+}
+
+.Memberships-image-text {
+    margin-top: 100px;
+    /* margin-left: 100px; */
+    padding: 55px;
+}
+
+.Memberships-image-text-1 {
+    font-size: 40px;
+}
+
+.Memberships-image-text-2 {
+    color: white;
+    font-size: 15px;
+    line-height: 30px;
+    margin-top: 40px;
+}
+
+
+.Memberships-image-link {
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+.Memberships-image-button {
+    background-color: #f19a0e;
+    width: 200px;
+    height: 50px;
+    margin-top: 50px;
+    border-radius: 50px;
+    border: none;
+    transition-duration: 0.4s;
+
+}
+
+.Memberships-image-button:hover {
+    background: #8f77f4;
+    box-shadow: 0px 2px 20px 10px #002b2b;
+    color: #000;
+}
+
+.Memberships-image-link:hover {
+    color: white;
+}
+
+.Memberships-no-1-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.Memberships-all-img-1 {
+    background-image: url(./image/2.jpg);
+    background-position: 97% 50%;
+    background-repeat: no-repeat;
+    background-size: 720px;
+    width: 277px;
+    height: 455px;
+    transition: 0.5s;
+    margin: 15px;
+}
+
+.Memberships-all-img-1:hover {
+    background-size: 750px;
+    filter: brightness(80%);
+}
+
+.Memberships-all-img-2 {
+    background-image: url(./image/3.jpg);
+    background-position: 90% 50%;
+    background-repeat: no-repeat;
+    background-size: 720px;
+    width: 277px;
+    height: 455px;
+    margin: 15px;
+    transition: 0.5s;
+}
+
+.Memberships-all-img-2:hover {
+    background-size: 750px;
+    filter: brightness(80%);
+
+}
+
+.Memberships-all-img-3 {
+    background-image: url(./image/4.jpg);
+    background-position: 100% 50%;
+    background-repeat: no-repeat;
+    background-size: 720px;
+    width: 277px;
+    height: 455px;
+    margin: 15px;
+    transition: 0.5s;
+}
+
+.Memberships-all-img-3:hover {
+    background-size: 750px;
+    filter: brightness(80%);
+}
+
+.Memberships-all-img-4 {
+    background-image: url(./image/5.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 720px;
+    width: 277px;
+    height: 455px;
+    margin: 15px;
+    transition: 0.5s;
+}
+
+.Memberships-all-img-4:hover {
+    background-size: 750px;
+    filter: brightness(80%);
+}
+
+.start-running-today {
+    margin-top: 125px;
+}
+
+.start-running-today-image-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.start-running-today-image {
+    background-image: url(./image/4.jpg);
+    background-position: 100% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    transition: 0.5s;
+}
+
+.start-running-today-image:hover {
+    filter: brightness(80%);
+}
+
+.start-running-today-text-1 {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 30px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.start-running-today-text-1:hover {
+    color: rgb(0, 55, 65);
+}
+
+.start-running-today-image-text-no-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.start-running-today-image-text-no-3-text-1 {
+    color: #000;
+    font-size: 22px;
+    line-height: 35px;
+    margin-top: 30px;
+
+}
+
+.start-running-today-image-text-no-4-text-2 {
+    color: #000;
+
+}
+
+
+.start-running-today-no-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.start-running-today-no-2-text-1 {
+    margin-top: 30px;
+    color: #000;
+    max-width: 400px;
+    line-height: 30px;
+    font-size: 20px;
+    margin: 35px;
+}
+
+.start-running-today-no-3-text-1 {
+    color: #000;
+    max-width: 480px;
+    line-height: 28px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 38px;
+}
+
+.start-running-today-no-3-text-2 {
+    color: #000;
+}
+
+.start-running-today-no-3-text-2-li {
+    color: #000;
+}
+
+.start-running-today-no-3-text-2 {
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+}
+
+.COMMUNITY-WORKOUTS-SUPPORT-RATINGS-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.COMMUNITY-WORKOUTS-SUPPORT-RATINGS-img-1 {
+    background-image: url(./image/2.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    background-position-x: 72%;
+    margin-top: 40px;
+    /* padding: 40px; */
+}
+
+.COMMUNITY-WORKOUTS-SUPPORT-RATINGS-bg {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    margin: 15px;
+}
+
+.COMMUNITY-bg {
+    color: #111111;
+    background-color: #c1c1c182;
+    width: 342px;
+    height: 273px;
+    border-radius: 20px;
+    padding: 0.1px;
+    margin-left: 11px;
+}
+
+.COMMUNITY-text {
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+.COMMUNITY-text-1 {
+    color: rgb(253, 253, 253);
+    font-size: 22px;
+}
+
+.COMMUNITY-text-2 {
+    color: rgb(253, 253, 253);
+    font-size: 16px;
+    margin-top: 30px;
+
+}
+
+.COMMUNITY-button {
+    width: 120px;
+    height: 50px;
+    margin-top: 30px;
+    border-radius: 50px;
+    border: none;
+    transition-duration: 0.4s;
+    background-color: #002b2b;
+
+}
+
+.COMMUNITY-button:hover {
+    background: #101010;
+    box-shadow: 0px 2px 15px 7px #676363;
+    color: #000;
+}
+
+.COMMUNITY-button-link {
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.COMMUNITY-button-link:hover {
+    color: white;
+}
+
+.COMMUNITY-image {
+    background-image: url(./image/6.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 64px;
+    height: 64px;
+    margin-top: -210px;
+    margin-left: 236px;
+}
+
+.WORKOUTS-bg {
+    color: #111111;
+    background-color: #c1c1c182;
+    width: 342px;
+    height: 273px;
+    border-radius: 20px;
+    padding: 0.1px;
+    margin: 15px;
+}
+
+.WORKOUTS-text {
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+.WORKOUTS-text-1 {
+    color: rgb(253, 253, 253);
+    font-size: 22px;
+}
+
+.WORKOUTS-text-2 {
+    color: rgb(253, 253, 253);
+    font-size: 16px;
+    margin-top: 30px;
+
+}
+
+.WORKOUTS-button {
+    width: 120px;
+    height: 50px;
+    margin-top: 30px;
+    border-radius: 50px;
+    border: none;
+    transition-duration: 0.4s;
+    background-color: #002b2b;
+
+}
+
+.WORKOUTS-button:hover {
+    background: #101010;
+    box-shadow: 0px 2px 15px 7px #676363;
+    color: #000;
+}
+
+.WORKOUTS-button-link {
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.WORKOUTS-button-link:hover {
+    color: white;
+}
+
+.WORKOUTS-image {
+    background-image: url(./image/7.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 64px;
+    height: 64px;
+    margin-top: -210px;
+    margin-left: 236px;
+}
+
+.SUPPORT-bg {
+    color: #111111;
+    background-color: #c1c1c182;
+    width: 342px;
+    height: 273px;
+    border-radius: 20px;
+    padding: 0.1px;
+    margin-left: 11px;
+}
+
+.SUPPORT-text {
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+.SUPPORT-text-1 {
+    color: rgb(253, 253, 253);
+    font-size: 22px;
+}
+
+.SUPPORT-text-2 {
+    color: rgb(253, 253, 253);
+    font-size: 16px;
+    margin-top: 30px;
+
+}
+
+.SUPPORT-button {
+    width: 120px;
+    height: 50px;
+    margin-top: 30px;
+    border-radius: 50px;
+    border: none;
+    transition-duration: 0.4s;
+    background-color: #002b2b;
+
+}
+
+.SUPPORT-button:hover {
+    background: #101010;
+    box-shadow: 0px 2px 15px 7px #676363;
+    color: #000;
+}
+
+.SUPPORT-button-link {
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.SUPPORT-button-link:hover {
+    color: white;
+}
+
+.SUPPORT-image {
+    background-image: url(./image/8.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 64px;
+    height: 64px;
+    margin-top: -210px;
+    margin-left: 236px;
+}
+
+.RATINGS-bg {
+    color: #111111;
+    background-color: #c1c1c182;
+    width: 342px;
+    height: 273px;
+    border-radius: 20px;
+    padding: 0.1px;
+    margin: 15px;
+}
+
+.RATINGS-text {
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+.RATINGS-text-1 {
+    color: rgb(253, 253, 253);
+    font-size: 22px;
+}
+
+.RATINGS-text-2 {
+    color: rgb(253, 253, 253);
+    font-size: 16px;
+    margin-top: 30px;
+
+}
+
+.RATINGS-button {
+    width: 120px;
+    height: 50px;
+    margin-top: 30px;
+    border-radius: 50px;
+    border: none;
+    transition-duration: 0.4s;
+    background-color: #002b2b;
+
+}
+
+.RATINGS-button:hover {
+    background: #101010;
+    box-shadow: 0px 2px 15px 7px #676363;
+    color: #000;
+}
+
+.RATINGS-button-link {
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.RATINGS-button-link:hover {
+    color: white;
+}
+
+.RATINGS-image {
+    background-image: url(./image/9.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 64px;
+    height: 64px;
+    margin-top: -210px;
+    margin-left: 236px;
+}
+
+.SUPPORT-RATINGS-bg {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    margin: 15px;
+}
+
+.Clubs-Events-Membership-bg {
+    background-color: #8f77f4;
+    color: white;
+    width: 100%;
+    height: auto;
+    padding: 0.1px;
+}
+
+.Clubs-Events-Membership-text {
+    margin-top: 100px;
+}
+
+.Clubs-Events-Membership-text-1 {
+    color: white;
+    font-size: 20px;
+    margin: 100px;
+}
+
+.Clubs-Events-Membership-text-2 {
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+    margin: 50px;
+    padding: 21px;
+}
+
+.Clubs-Events-Membership-button {
+    width: 160px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 50px;
+    margin-left: 92px;
+    margin-bottom: 15px;
+    border: none;
+    transition-duration: 0.4s;
+    color: #111111;
+    background-color: #f19a0e !important;
+}
+
+.Clubs-Events-Membership-button:hover {
+    background: #b97300;
+    box-shadow: 0px 2px 15px 7px #676363;
+    color: #b97300;
+}
+
+.Clubs-Events-Membership-button-link {
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.Clubs-Events-Membership-button-link:hover {
+    color: white;
+}
+
+.WORKOUT {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.WORKOUT-image {
+    background-image: url(./image/10.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 570px;
+    height: 599px;
+    margin: 30px;
+}
+
+.ONLINE-text {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.ON-SITE-CLASSES-text-1 {
+    color: #111111;
+}
+
+.ON-SITE-CLASSES-text-2 {
+    color: black;
+    /* width: 537px; */
+}
