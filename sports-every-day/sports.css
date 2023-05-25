@@ -34,6 +34,8 @@
     font-size: 15px;
     line-height: 30px;
     margin-top: 40px;
+    text-align: justify;
+    max-width: 380px;
 }
 
 
@@ -211,6 +213,7 @@
     line-height: 30px;
     font-size: 20px;
     margin: 35px;
+    text-align: justify;
 }
 
 .start-running-today-no-3-text-1 {
@@ -220,6 +223,7 @@
     font-weight: bold;
     font-size: 16px;
     margin: 38px;
+    text-align: justify;
 }
 
 .start-running-today-no-3-text-2 {
@@ -288,6 +292,7 @@
     color: rgb(253, 253, 253);
     font-size: 16px;
     margin-top: 30px;
+    text-align: justify;
 
 }
 
@@ -353,6 +358,7 @@
     color: rgb(253, 253, 253);
     font-size: 16px;
     margin-top: 30px;
+    text-align: justify;
 
 }
 
@@ -418,7 +424,7 @@
     color: rgb(253, 253, 253);
     font-size: 16px;
     margin-top: 30px;
-
+    text-align: justify;
 }
 
 .SUPPORT-button {
@@ -483,7 +489,7 @@
     color: rgb(253, 253, 253);
     font-size: 16px;
     margin-top: 30px;
-
+    text-align: justify;
 }
 
 .RATINGS-button {
@@ -609,11 +615,7 @@
 }
 
 .ONLINE-text {
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
+    padding: 20px;
 }
 
 .ON-SITE-CLASSES-text-1 {
@@ -621,6 +623,430 @@
 }
 
 .ON-SITE-CLASSES-text-2 {
-    color: black;
+    color: #999999 !important;
     /* width: 537px; */
+    margin-top: 30px;
+    text-align: justify;
+}
+
+.SOLO-WORKOUT {
+    margin-top: 40px;
+    text-align: justify;
+}
+
+.SOLO-WORKOUT-text-1 {
+    color: black;
+}
+
+.SOLO-WORKOUT-text-2 {
+    color: #999999 !important;
+    margin-top: 30px;
+    text-align: justify;
+}
+
+.ONLINE {
+    margin-top: 40px;
+}
+
+.ONLINE-text-1 {
+    color: black;
+}
+
+.ONLINE-text-2 {
+    color: #999999 !important;
+    margin-top: 30px;
+    text-align: justify;
+}
+
+.ONLINE-text-button {
+    width: 160px;
+    height: 50px;
+    margin-top: 50px;
+    border-radius: 50px;
+    margin-left: px;
+    margin-bottom: 15px;
+    border: none;
+    transition-duration: 0.4s;
+    color: #111111;
+    background-color: #f19a0e !important;
+}
+
+.ONLINE-text-button:hover {
+    background: #b97300;
+    box-shadow: 0px 2px 15px 7px #676363;
+    color: #b97300;
+}
+
+.ONLINE-text-button-link {
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.ONLINE-text-button-link:hover {
+    color: white;
+}
+
+.These-voyages-img-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+
+}
+
+.These-voyages-img-1 {
+    background-image: linear-gradient(1deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(./image/11.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    background-position-x: 1px;
+
+
+}
+
+.These-voyages-text-img-2 {
+    background-image: url(./image/12.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 64px;
+    height: 64px;
+    margin-left: 500px;
+
+}
+
+.These-voyages-text-1 {
+    color: rgb(255, 255, 255);
+    max-width: 384px;
+    line-height: 30px;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 500px;
+}
+
+.These-voyages-text {
+    margin-top: 50px;
+    padding: 35px;
+}
+
+
+
+.These-voyages-text-button {
+    width: 160px;
+    height: 50px;
+    margin-top: 50px;
+    border-radius: 50px;
+    margin-left: 500px;
+    margin-bottom: 15px;
+    border: none;
+    transition-duration: 0.4s;
+    color: #111111;
+    background-color: #f19a0e !important;
+}
+
+.These-voyages-text-button:hover {
+    background: #b97300;
+    box-shadow: 0px 2px 15px 7px #676363;
+    color: #b97300;
+}
+
+.These-voyages-button-link {
+    text-decoration: none;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.These-voyages-button-link:hover {
+    color: white;
+}
+
+
+.Memberships-as-low-text {
+    margin-left: 160px;
+}
+
+.Memberships-as-low-text-1 {
+    color: black;
+    max-width: 487px;
+    font-size: 45px;
+    padding: 20px;
+
+}
+
+.Memberships-as-low-text-2 {
+    color: rgb(37, 37, 37);
+    max-width: 487px;
+    padding: 20px;
+    text-align: justify;
+
+}
+
+.Memberships-as-low-text-button {
+    width: 160px;
+    height: 50px;
+    margin-top: 50px;
+    border-radius: 50px;
+    margin-left: 5px;
+    margin-bottom: 25px;
+    border: none;
+    transition-duration: 0.4s;
+    color: #111111;
+    background-color: #f19a0e !important;
+}
+
+.Memberships-as-low-text-button:hover {
+    background: #b97300;
+    box-shadow: 0px 2px 15px 7px #676363;
+    color: #b97300;
+}
+
+.Memberships-as-low-button-link {
+    text-decoration: none;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.Memberships-as-low-button-link:hover {
+    color: white;
+}
+
+.Memberships-as-low-img-1 {
+    background-image: url(./image/13.jpg);
+    background-position: 0% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 570px;
+    height: 599px;
+}
+
+.Memberships-as-low-text-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+
+.Benefits-of-sport-training-image {}
+
+.Benefits-of-sport-training-img {
+    background-image: url(./image/14.jpg);
+    background-position: 50% 00%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 457px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.Benefits-of-sport-training-text {
+    font-size: 25px;
+    margin-left: 200px;
+    color: white;
+    max-width: 700px;
+    padding: 20px;
+}
+
+.Benefits-of-sport-training-text-1 {
+    color: white;
+
+}
+
+.Benefits-of-sport-training-button {
+    width: 160px;
+    height: 50px;
+    margin-top: 50px;
+    border-radius: 50px;
+    margin-left: 5px;
+    margin-bottom: 25px;
+    border: none;
+    transition-duration: 0.4s;
+    color: #111111;
+    background-color: #f19a0e !important;
+}
+
+.Benefits-of-sport-training-button:hover {
+    background: #b97300;
+    box-shadow: 0px 2px 15px 7px #676363;
+    color: #b97300;
+}
+
+.Benefits-of-sport-training-button-link {
+    text-decoration: none;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.Benefits-of-sport-training-button-link:hover {
+    color: white;
+}
+
+
+.Join-Us-img {
+    background-image: url(./image/15.jpg);
+    background-position: 50% 00%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 457px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.Join-Us-text {
+    font-size: 25px;
+    margin-left: 200px;
+    color: white;
+    max-width: 700px;
+    padding: 30px;
+
+}
+
+.Join-Us-text-1 {
+    color: white;
+
+}
+
+.Join-Us-text-2 {
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+.Join-Us-button {
+    width: 160px;
+    height: 50px;
+    margin-top: 50px;
+    border-radius: 50px;
+    margin-left: 5px;
+    margin-bottom: 25px;
+    border: none;
+    transition-duration: 0.4s;
+    color: #111111;
+    background-color: #f19a0e !important;
+}
+
+.Join-Us-button:hover {
+    background: #b97300;
+    box-shadow: 0px 2px 15px 7px #676363;
+    color: #b97300;
+}
+
+.Join-Us-button-link {
+    text-decoration: none;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.Join-Us-button-link:hover {
+    color: white;
+}
+
+.Join-Us-email {
+    height: 6px;
+    width: 320px;
+    border-radius: 50px;
+    padding: 24px;
+    font-size: 17px;
+    color: black;
+}
+
+.Join-Us-form {
+    margin-left: -12px;
+    margin-top: 31px;
+    padding: 20px;
+
+}
+
+
+@use postcss-preset-env {
+    stage: 0
+}
+
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+
+    &>input {
+        flex: 1 1 10ch;
+        margin: .5rem;
+        color: black;
+
+        &[type="email"] {
+            flex: 3 1 30ch;
+        }
+    }
+}
+
+input {
+    border: none;
+    background: hsl(0 0% 93%);
+    border-radius: .25rem;
+    padding: .75rem 1rem;
+
+    &[type="submit"] {
+        background: #611408;
+        color: white;
+        /* box-shadow: 0 .75rem .5rem -.5rem hsl(0 50% 80%); */
+    }
+}
+
+
+
+
+@media only screen and (max-width: 800px) {
+    .These-voyages-text-1 {
+        margin-left: 0;
+    }
+
+    .These-voyages-text-img-2 {
+        margin-left: 0;
+    }
+
+    .These-voyages-text-button {
+        margin-left: 0;
+    }
+
+    .Memberships-as-low-text {
+        margin-left: 0;
+        padding: 0;
+    }
+
+    .Benefits-of-sport-training-text {
+        margin-left: 0;
+    }
+
+    .Join-Us-form {
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .Join-Us-text {
+        margin-left: 0;
+    }
 }
