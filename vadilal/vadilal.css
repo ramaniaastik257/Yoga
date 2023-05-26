@@ -1,0 +1,699 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@600;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway", sans-serif;
+    color: #000000;
+}
+
+.fack {
+    max-width: 100%;
+    min-height: 150px;
+}
+
+.GOODNESS {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.GOODNESS-text {
+    color: #000000;
+
+}
+
+.GOODNESS-text-1 {
+    color: #000000;
+}
+
+.GOODNESS-img-1 {
+    background-image: url(./image/2.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 507px;
+    padding: 0.1px;
+}
+
+.GOODNESS-img-1-text {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 200px;
+
+}
+
+.GOODNESS-img-1-text-1 {
+    font-size: 6vw !important;
+}
+
+.CRAFTING-img-1 {
+    background-image: url(./image/3.jpeg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 507px;
+    padding: 0.1px;
+}
+
+.CRAFTING-img-1-text {
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+
+}
+
+.CRAFTING-img-1-text-1 {
+    font-size: 6vw !important;
+}
+
+.TASTY-TRENDS-img-1 {
+    background-image: url(./image/4.jpeg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 507px;
+    padding: 0.1px;
+}
+
+.TASTY-TRENDS-img-1-text {
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+
+}
+
+.TASTY-TRENDS-img-1-text-1 {
+    font-size: 6vw !important;
+}
+
+.ENCHANTED-img-1 {
+    background-image: url(./image/5.jpeg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-attachment: fixed;
+    height: 507px;
+    padding: 0.1px;
+}
+
+.ENCHANTED-img-1-text {
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+
+}
+
+.ENCHANTED-img-1-text-1 {
+    font-size: 6vw !important;
+}
+
+.OUR-DELICACIES-img-1 {
+    background-image: url(./image/6.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    height: 507px;
+    padding: 0.1px;
+}
+
+.OUR-DELICACIES-img-1-text {
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+
+}
+
+.OUR-DELICACIES-img-1-text-1 {
+    font-size: 6vw !important;
+}
+
+.SMALL-img-1 {
+    background-image: url(./image/7.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 507px;
+    padding: 0.1px;
+}
+
+.SMALL-img-1-text {
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+
+}
+
+.SMALL-img-1-text-1 {
+    font-size: 6vw !important;
+}
+
+.GET-SET-img-1 {
+    background-image: url(./image/8.jpeg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-attachment: fixed;
+    height: 507px;
+    padding: 0.1px;
+}
+
+.GET-SET-img-1-text {
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+
+}
+
+.GET-SET-img-1-text-1 {
+    font-size: 6vw !important;
+}
+
+/* .Footer-image {
+    background-image: url(./image/9.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: 292px;
+} */
+
+.Footer-img-2 {
+    height: 290px;
+}
+
+@media only screen and (min-height: 600px) {
+    .Footer-image {}
+}
+
+.Our-products-text-1 {
+    color: black;
+}
+
+.fack-1 {
+    max-width: 100%;
+    min-height: 180px;
+}
+
+.Our-products-text {
+    text-align: center;
+}
+
+.Our-products-navbar {
+    margin-top: 50px;
+}
+
+.Our-products-navbar-bg {
+    background-color: rgb(237, 17, 100);
+    width: 100%;
+    height: auto;
+    padding: 98px;
+}
+
+.Our-products-navbar-all {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+.navber-1 {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    text-transform: uppercase;
+    font-size: 17px;
+    transition: 0.5s;
+}
+
+.navber-1:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.products-image-no-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.all-no-1-img-1 {
+    background-image: url(./image/10.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-1-img-1:hover {
+    background-size: 335px;
+}
+
+.all-no-1-text-1 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-1-text-1:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-1-img-2 {
+    background-image: url(./image/11.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-1-img-2:hover {
+    background-size: 335px;
+}
+
+.all-no-1-text-2 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-1-text-2:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-1-img-3 {
+    background-image: url(./image/12.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-1-img-3:hover {
+    background-size: 335px;
+}
+
+.all-no-1-text-3 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-1-text-3:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-1-img-4 {
+    background-image: url(./image/13.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-1-img-4:hover {
+    background-size: 335px;
+}
+
+.all-no-1-text-4 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-1-text-4:hover {
+    color: rgb(171, 1, 7);
+}
+
+.products-image-no-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.all-no-2-img-1 {
+    background-image: url(./image/14.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-2-img-1:hover {
+    background-size: 335px;
+}
+
+.all-no-2-text-1 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-2-text-1:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-2-img-2 {
+    background-image: url(./image/15.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-2-img-2:hover {
+    background-size: 335px;
+}
+
+.all-no-2-text-2 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-2-text-2:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-2-img-3 {
+    background-image: url(./image/16.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-2-img-3:hover {
+    background-size: 335px;
+}
+
+.all-no-2-text-3 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-2-text-3:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-2-img-4 {
+    background-image: url(./image/17.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-2-img-4:hover {
+    background-size: 335px;
+}
+
+.all-no-2-text-4 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-2-text-4:hover {
+    color: rgb(171, 1, 7);
+}
+
+.products-image-no-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.all-no-3-img-1 {
+    background-image: url(./image/18.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-3-img-1:hover {
+    background-size: 335px;
+}
+
+.all-no-3-text-1 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-3-text-1:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-3-img-2 {
+    background-image: url(./image/19.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-3-img-2:hover {
+    background-size: 335px;
+}
+
+.all-no-3-text-2 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-3-text-2:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-3-img-3 {
+    background-image: url(./image/20.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-3-img-3:hover {
+    background-size: 335px;
+}
+
+.all-no-3-text-3 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-3-text-3:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-3-img-4 {
+    background-image: url(./image/21.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-3-img-4:hover {
+    background-size: 335px;
+}
+
+.all-no-3-text-4 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-3-text-4:hover {
+    color: rgb(171, 1, 7);
+}
+
+
+
+
+
+.products-image-no-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.all-no-4-img-1 {
+    background-image: url(./image/22.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-4-img-1:hover {
+    background-size: 335px;
+}
+
+.all-no-4-text-1 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-4-text-1:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-4-img-2 {
+    background-image: url(./image/23.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-4-img-2:hover {
+    background-size: 335px;
+}
+
+.all-no-4-text-2 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-4-text-2:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-4-img-3 {
+    background-image: url(./image/24.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-4-img-3:hover {
+    background-size: 335px;
+}
+
+.all-no-4-text-3 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-4-text-3:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-4-img-4 {
+    background-image: url(./image/25.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-4-img-4:hover {
+    background-size: 335px;
+}
+
+.all-no-4-text-4 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-4-text-4:hover {
+    color: rgb(171, 1, 7);
+}
