@@ -191,8 +191,9 @@
     height: 292px;
 } */
 
-.Footer-img-2 {
+.Footer-img-3 {
     height: 290px;
+    margin-top: 60px;
 }
 
 @media only screen and (min-height: 600px) {
@@ -695,5 +696,378 @@
 }
 
 .all-no-4-text-4:hover {
+    color: rgb(171, 1, 7);
+}
+
+.products-image-no-5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.all-no-5-img-1 {
+    background-image: url(./image/26.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 410px;
+    transition: 0.5s;
+}
+
+.all-no-5-img-1:hover {
+    background-size: 335px;
+}
+
+.all-no-5-text-1 {
+    font-size: 20px;
+    margin-top: 385px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-5-text-1:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-5-img-2 {
+    background-image: url(./image/27.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 410px;
+    transition: 0.5s;
+}
+
+.all-no-5-img-2:hover {
+    background-size: 335px;
+}
+
+.all-no-5-text-2 {
+    font-size: 20px;
+    margin-top: 385px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-5-text-2:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-5-img-3 {
+    background-image: url(./image/28.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 410px;
+    transition: 0.5s;
+}
+
+.all-no-5-img-3:hover {
+    background-size: 335px;
+}
+
+.all-no-5-text-3 {
+    font-size: 20px;
+    margin-top: 385px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-5-text-3:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-5-img-4 {
+    background-image: url(./image/29.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 410px;
+    transition: 0.5s;
+}
+
+.all-no-5-img-4:hover {
+    background-size: 335px;
+}
+
+.all-no-5-text-4 {
+    font-size: 20px;
+    margin-top: 385px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-5-text-4:hover {
+    color: rgb(171, 1, 7);
+}
+
+
+
+
+
+
+.products-image-no-6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.all-no-6-img-1 {
+    background-image: url(./image/30.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 410px;
+    transition: 0.5s;
+}
+
+.all-no-6-img-1:hover {
+    background-size: 335px;
+}
+
+.all-no-6-text-1 {
+    font-size: 20px;
+    margin-top: 385px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-6-text-1:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-6-img-2 {
+    background-image: url(./image/31.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 410px;
+    transition: 0.5s;
+}
+
+.all-no-6-img-2:hover {
+    background-size: 335px;
+}
+
+.all-no-6-text-2 {
+    font-size: 20px;
+    margin-top: 385px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-6-text-2:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-6-img-3 {
+    background-image: url(./image/32.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 410px;
+    transition: 0.5s;
+}
+
+.all-no-6-img-3:hover {
+    background-size: 335px;
+}
+
+.all-no-6-text-3 {
+    font-size: 20px;
+    margin-top: 385px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-6-text-3:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-6-img-4 {
+    background-image: url(./image/33.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-6-img-4:hover {
+    background-size: 335px;
+}
+
+.all-no-6-text-4 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-6-text-4:hover {
+    color: rgb(171, 1, 7);
+}
+
+
+
+
+
+.products-image-no-7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.all-no-7-img-1 {
+    background-image: url(./image/34.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-7-img-1:hover {
+    background-size: 335px;
+}
+
+.all-no-7-text-1 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-7-text-1:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-7-img-2 {
+    background-image: url(./image/35.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-7-img-2:hover {
+    background-size: 335px;
+}
+
+.all-no-7-text-2 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-7-text-2:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-7-img-3 {
+    background-image: url(./image/36.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-7-img-3:hover {
+    background-size: 335px;
+}
+
+.all-no-7-text-3 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-7-text-3:hover {
+    color: rgb(171, 1, 7);
+}
+
+.all-no-7-img-4 {
+    background-image: url(./image/37.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-7-img-4:hover {
+    background-size: 335px;
+}
+
+.all-no-7-text-4 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-7-text-4:hover {
+    color: rgb(171, 1, 7);
+}
+
+
+
+.all-no-8-img-1 {
+    background-image: url(./image/38.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 293px;
+    width: 293px;
+    height: 293px;
+    transition: 0.5s;
+}
+
+.all-no-8-img-1:hover {
+    background-size: 335px;
+}
+
+.all-no-8-text-1 {
+    font-size: 20px;
+    margin-top: 275px;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.all-no-8-text-1:hover {
     color: rgb(171, 1, 7);
 }
