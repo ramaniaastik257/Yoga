@@ -60,13 +60,468 @@
     filter: brightness(80%);
 }
 
+.Difference-text {
+    margin-left: 100px;
+    padding: 20px;
+}
+
 .Difference-text-1 {
     color: black;
     font-size: 30px;
     font-weight: bold;
-    text-align: center;
     transition: 0.3s;
+    max-width: 401px;
+    font-size: 60px;
 }
+
+.Difference-text-3 {
+    max-width: 463px;
+    text-align: justify;
+    transition: 0.3s;
+    margin-top: 30px;
+
+}
+
+.Difference-text-2 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    margin-left: 100px;
+
+}
+
+.button-8 {
+    background-color: #e1ecf4;
+    border-radius: 3px;
+    border: 1px solid #7aa7c7;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #39739d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-8:hover,
+.button-8:focus {
+    background-color: #b3d3ea;
+    color: #000000;
+}
+
+.button-8:focus {
+    box-shadow: 0 0 0 4px rgba(0, 149, 255, .15);
+}
+
+.button-8:active {
+    background-color: #a0c7e4;
+    box-shadow: none;
+    color: #000000;
+}
+
+.Create-Your-image-text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.Create-Your-image {
+    background-image: url(./image/3.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 711px;
+    height: 604px;
+    transition: 0.5s;
+    margin-left: 149px;
+}
+
+.Create-Your-image:hover {
+    filter: brightness(80%);
+}
+
+.Create-Your-text {
+    margin-left: 100px;
+}
+
+.Create-Your-text-1 {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    transition: 0.3s;
+    max-width: 401px;
+    font-size: 60px;
+}
+
+.Create-Your-text-3 {
+    max-width: 463px;
+    text-align: justify;
+    transition: 0.3s;
+    margin-top: 30px;
+
+}
+
+.Create-Your-text-2 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    margin-left: 60px;
+
+}
+
+.button-8 {
+    background-color: #e1ecf4;
+    border-radius: 3px;
+    border: 1px solid #7aa7c7;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #39739d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-8:hover,
+.button-8:focus {
+    background-color: #b3d3ea;
+    color: #000000;
+}
+
+.button-8:focus {
+    box-shadow: 0 0 0 4px rgba(0, 149, 255, .15);
+}
+
+.button-8:active {
+    background-color: #a0c7e4;
+    box-shadow: none;
+    color: #000000;
+}
+
+.Create-Your1 {
+    display: none;
+}
+
+.Create-Your1-image-text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.Create-Your1-image {
+    background-image: url(./image/3.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 711px;
+    height: 604px;
+    transition: 0.5s;
+    margin-left: 1px;
+}
+
+.Create-Your1-image:hover {
+    filter: brightness(80%);
+}
+
+.Create-Your1-text {
+    margin-left: 100px;
+    padding: 20px;
+}
+
+.Create-Your1-text-1 {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    transition: 0.3s;
+    max-width: 401px;
+    font-size: 60px;
+}
+
+.Create-Your1-text-3 {
+    max-width: 463px;
+    text-align: justify;
+    transition: 0.3s;
+    margin-top: 30px;
+
+}
+
+.Create-Your1-text-2 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    margin-left: 60px;
+
+}
+
+.button-8 {
+    background-color: #e1ecf4;
+    border-radius: 3px;
+    border: 1px solid #7aa7c7;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #39739d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-8:hover,
+.button-8:focus {
+    background-color: #b3d3ea;
+    color: #000000;
+}
+
+.button-8:focus {
+    box-shadow: 0 0 0 4px rgba(0, 149, 255, .15);
+}
+
+.button-8:active {
+    background-color: #a0c7e4;
+    box-shadow: none;
+    color: #000000;
+}
+
+
+
+.develop {
+    /* margin-top: 125px; */
+}
+
+.develop-image-text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.develop-image {
+    background-image: url(./image/4.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 711px;
+    height: 604px;
+    transition: 0.5s;
+}
+
+.develop-image:hover {
+    filter: brightness(80%);
+}
+
+.develop-text {
+    margin-left: 100px;
+    padding: 20px;
+}
+
+.develop-text-1 {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    transition: 0.3s;
+    max-width: 463px;
+    font-size: 54px;
+}
+
+.develop-text-3 {
+    max-width: 463px;
+    text-align: justify;
+    transition: 0.3s;
+    margin-top: 30px;
+
+}
+
+.develop-text-2 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    margin-left: 100px;
+
+}
+
+.button-8 {
+    background-color: #e1ecf4;
+    border-radius: 3px;
+    border: 1px solid #7aa7c7;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #39739d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-8:hover,
+.button-8:focus {
+    background-color: #b3d3ea;
+    color: #000000;
+}
+
+.button-8:focus {
+    box-shadow: 0 0 0 4px rgba(0, 149, 255, .15);
+}
+
+.button-8:active {
+    background-color: #a0c7e4;
+    box-shadow: none;
+    color: #000000;
+}
+
+.button1 {
+    display: flex;
+}
+
+.Digital-design-image-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0px;
+}
+
+.Digital-design-img-1 {
+    background-image: url(./image/5.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 400px;
+    width: 355px;
+    height: 353px;
+    margin-top: 10px;
+    transition: 0.5s;
+}
+
+.Digital-design-img-1:hover {
+    background-size: 430px;
+    filter: brightness(80%);
+}
+
+.Digital-design-img-2 {
+    background-image: url(./image/6.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 400px;
+    width: 355px;
+    height: 353px;
+    margin-top: 10px;
+    transition: 0.5s;
+}
+
+.Digital-design-img-2:hover {
+    background-size: 430px;
+    filter: brightness(80%);
+
+}
+
+.Digital-design-img-3 {
+    background-image: url(./image/7.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 538px;
+    width: 355px;
+    height: 353px;
+    margin-top: 10px;
+    transition: 0.5s;
+}
+
+.Digital-design-img-3:hover {
+    background-size: 570px;
+    filter: brightness(80%);
+
+}
+
+.Digital-design-img-4 {
+    background-image: url(./image/8.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 400px;
+    width: 355px;
+    height: 353px;
+    margin-top: 10px;
+    transition: 0.5s;
+}
+
+.Digital-design-img-4:hover {
+    background-size: 430px;
+    filter: brightness(80%);
+}
+
+
+
+
+
+
+
 
 @media only screen and (max-width: 467px) {
 
@@ -77,4 +532,87 @@
         padding-left: 25px;
     }
 
+    .Difference-text {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+
+    .Difference-text-1 {
+        color: black;
+        font-size: 30px;
+        font-weight: bold;
+        transition: 0.3s;
+        max-width: 301px;
+        font-size: 40px;
+    }
+
+    .Difference-text-3 {
+        max-width: 502px;
+        text-align: justify;
+        transition: 0.3s;
+        margin-top: 30px;
+    }
+
+    .Create-Your-text {
+        margin-left: 10px;
+    }
+
+    .Create-Your-image {
+        margin-left: 1px;
+    }
+
+    .Create-Your {
+        display: none;
+    }
+
+    .Create-Your1 {
+        display: flex;
+
+    }
+
+    .Create-Your1-image {
+        background-image: url(./image/3.jpg);
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 355px;
+        height: 604px;
+        transition: 0.5s;
+        margin-left: 1px;
+
+    }
+
+    .Create-Your1-text {
+        margin-left: 1px;
+    }
+
+    .Create-Your1-text-2 {
+        margin-top: 30px;
+        margin-left: 71px;
+
+    }
+
+    .Create-Your1-text-1 {
+        font-size: 46px;
+    }
+
+    .develop-text {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+
+    .develop-text-1 {
+        max-width: 451px;
+        font-size: 39px;
+    }
+
+    .button1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .Digital-design-image-1 {
+        margin: 10px;
+    }
 }
