@@ -1,0 +1,333 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@600;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway", sans-serif;
+    color: #000000;
+}
+
+.aa {
+    width: 100%;
+    height: 77px;
+    background-color: aqua;
+}
+
+.Beautiful-food {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    /* margin-top: 50px; */
+    padding: 50px;
+}
+
+.Beautiful-food-text {
+    /* margin-left: 150px;
+    margin-top: 170px; */
+}
+
+.Beautiful-food-text-1 {
+    max-width: 540px;
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.Beautiful-food-text-2 {
+    max-width: 524px;
+    color: #3b3b3b;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.button-8 {
+    background-color: #e1ecf4;
+    border-radius: 3px;
+    border: 1px solid #7aa7c7;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #39739d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-8:hover {
+    background-color: #7aa7c7;
+    color: white;
+}
+
+.Beautiful-food-img-1 {
+    background-image: url(./image/4.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 600px;
+    height: 580px;
+    padding: 50px;
+}
+
+
+.fresh-products {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    /* margin-top: 50px; */
+    padding: 50px;
+}
+
+.fresh-products-text {
+    /* margin-left: 150px;
+    margin-top: 170px; */
+}
+
+.fresh-products-text-1 {
+    max-width: 455px;
+    font-size: 55px;
+    font-weight: bold;
+    color: #35b8be;
+}
+
+.fresh-products-text-2 {
+    max-width: 524px;
+    color: #3b3b3b;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.button-8 {
+    background-color: #e1ecf4;
+    border-radius: 3px;
+    border: 1px solid #7aa7c7;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #39739d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-8:hover {
+    background-color: #7aa7c7;
+    color: white;
+}
+
+.fresh-products-img-1 {
+    background-image: url(./image/5.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 600px;
+    height: 580px;
+    padding: 50px;
+    border-radius: 50%;
+}
+
+.works-text {
+    color: #0a8188;
+    text-align: center;
+
+}
+
+.works-text-1 {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.works-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.works-img {
+    margin: 50px;
+}
+
+.works-text-2 {
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    color: #0a8188;
+}
+
+.works-text-3 {
+    max-width: 267px;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 33px;
+
+}
+
+.works-img-1 {
+    background-image: url(./image/6.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 333px;
+    height: 267px;
+}
+
+.works-img-2 {
+    margin: 50px;
+}
+
+.works-text-2-2 {
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    color: #0a8188;
+}
+
+.works-text-2-3 {
+    max-width: 267px;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 33px;
+
+}
+
+.works-img-2-1 {
+    background-image: url(./image/7.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 333px;
+    height: 267px;
+}
+
+.works-img-3 {
+    margin: 50px;
+}
+
+.works-text-3-2 {
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    color: #0a8188;
+}
+
+.works-text-3-3 {
+    max-width: 267px;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 33px;
+
+}
+
+.works-img-3-1 {
+    background-image: url(./image/8.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 333px;
+    height: 267px;
+}
+
+.works {
+    margin-top: 100px;
+}
+
+.Browse-our-menu-text {
+    text-align: center;
+}
+
+.Browse-our-menu-text-1 {
+    color: #0a8188;
+    font-weight: bold;
+    font-size: 55px;
+}
+
+.Browse-our-menu-text-2 {
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 600px) {
+    .Beautiful-food-img-1 {
+        background-image: url(./image/4.png);
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 350px;
+        height: 580px;
+    }
+
+    .fresh-products-img-1 {
+        background-image: url(./image/5.png);
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 350px;
+        height: 580px;
+        border-radius: 50%;
+    }
+
+    .fresh-products-text-1 {
+        max-width: 455px;
+        font-size: 37px;
+        font-weight: bold;
+    }
+
+    .Beautiful-food-text-1 {
+        max-width: 540px;
+        font-size: 35px;
+        font-weight: bold;
+    }
+
+    .fresh-products-text-2 {
+        max-width: 524px;
+        color: #3b3b3b;
+        font-weight: bold;
+        font-size: 15px;
+    }
+
+    .Beautiful-food-text-2 {
+        max-width: 524px;
+        color: #3b3b3b;
+        font-weight: bold;
+        font-size: 15px;
+    }
+
+    .works-text-1 {
+        font-weight: bold;
+        font-size: 50px;
+    }
+}

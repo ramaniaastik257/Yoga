@@ -1,0 +1,1102 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@600;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway", sans-serif;
+    color: #000000;
+}
+
+.aa {
+    width: 100%;
+    height: 77px;
+    background-color: aqua;
+}
+
+.Beautiful-food {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    /* margin-top: 50px; */
+    padding: 50px;
+}
+
+.Beautiful-food-text {
+    /* margin-left: 150px;
+    margin-top: 170px; */
+}
+
+.Beautiful-food-text-1 {
+    max-width: 540px;
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.Beautiful-food-text-2 {
+    max-width: 524px;
+    color: #3b3b3b;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.button-8 {
+    background-color: #e1ecf4;
+    border-radius: 3px;
+    border: 1px solid #7aa7c7;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #39739d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-8:hover {
+    background-color: #7aa7c7;
+    color: white;
+}
+
+.Beautiful-food-img-1 {
+    background-image: url(./image/4.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 600px;
+    height: 580px;
+    padding: 50px;
+}
+
+
+.fresh-products {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    /* margin-top: 50px; */
+    padding: 50px;
+}
+
+.fresh-products-text {
+    /* margin-left: 150px;
+    margin-top: 170px; */
+}
+
+.fresh-products-text-1 {
+    max-width: 455px;
+    font-size: 55px;
+    font-weight: bold;
+    color: #35b8be;
+}
+
+.fresh-products-text-2 {
+    max-width: 524px;
+    color: #3b3b3b;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.button-8 {
+    background-color: #e1ecf4;
+    border-radius: 3px;
+    border: 1px solid #7aa7c7;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #39739d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-8:hover {
+    background-color: #7aa7c7;
+    color: white;
+}
+
+.fresh-products-img-1 {
+    background-image: url(./image/5.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 600px;
+    height: 580px;
+    padding: 50px;
+    border-radius: 50%;
+}
+
+.works-text {
+    color: #0a8188;
+    text-align: center;
+
+}
+
+.works-text-1 {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.works-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.works-img {
+    margin: 50px;
+}
+
+.works-text-2 {
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    color: #0a8188;
+}
+
+.works-text-3 {
+    max-width: 267px;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 33px;
+
+}
+
+.works-img-1 {
+    background-image: url(./image/6.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 333px;
+    height: 267px;
+}
+
+.works-img-2 {
+    margin: 50px;
+}
+
+.works-text-2-2 {
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    color: #0a8188;
+}
+
+.works-text-2-3 {
+    max-width: 267px;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 33px;
+
+}
+
+.works-img-2-1 {
+    background-image: url(./image/7.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 333px;
+    height: 267px;
+}
+
+.works-img-3 {
+    margin: 50px;
+}
+
+.works-text-3-2 {
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    color: #0a8188;
+}
+
+.works-text-3-3 {
+    max-width: 267px;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 33px;
+
+}
+
+.works-img-3-1 {
+    background-image: url(./image/8.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 333px;
+    height: 267px;
+}
+
+.works {
+    margin-top: 100px;
+}
+
+.Browse-our-menu {
+    margin-top: 150px;
+}
+
+.Browse-our-menu-text {
+    text-align: center;
+}
+
+.Browse-our-menu-text-1 {
+    color: #0a8188;
+    font-weight: bold;
+    font-size: 55px;
+}
+
+.Browse-our-menu-text-2 {
+    font-weight: bold;
+    /* max-width: 523px; */
+    font-size: 16px;
+    text-align: center;
+}
+
+.burgers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.button-9 {
+    background-color: #e1ecf4;
+    border-radius: 3px;
+    border: 1px solid #fbfbfb;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #0a8188;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-9:hover {
+    background-color: #0a8188;
+    color: white;
+}
+
+.burgers-dreams-img-1 {
+    background-image: url(./image/9.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 120px;
+    height: 120px;
+    border-radius: 15px;
+}
+
+.burgers-dreams-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.burgers-No-text-1 {
+    margin-top: 107px;
+    margin-left: 25px;
+}
+
+.burgers-dreams-img-1-text-1 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.burgers-dreams-img-1-text-2 {
+    max-width: 375px;
+    font-size: 15px;
+    color: #5d5d5d;
+}
+
+.bbaa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.a11 {
+    display: flex;
+    align-items: baseline;
+    flex-direction: row;
+    align-content: flex-start;
+    justify-content: space-evenly;
+}
+
+.button-10 {
+    background-color: #007f86;
+    border-radius: 3px;
+    border: 1px solid #fbfbfb;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-10:hover {
+    background-color: #03afb8;
+    color: white;
+}
+
+.Burger-Waldo-img-1 {
+    background-image: url(./image/10.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 120px;
+    height: 120px;
+    border-radius: 15px;
+}
+
+.Burger-Waldo {
+    margin-left: 100px;
+}
+
+.Burger-Waldo-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.Burger-Waldo-No-text-1 {
+    margin-top: 107px;
+    margin-left: 25px;
+}
+
+.Burger-Waldo-img-1-text-1 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.Burger-Waldo-img-1-text-2 {
+    max-width: 375px;
+    font-size: 15px;
+    color: #5d5d5d;
+}
+
+.bbaa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.a11 {
+    display: flex;
+    align-items: baseline;
+    flex-direction: row;
+    align-content: flex-start;
+    justify-content: space-evenly;
+}
+
+.button-10 {
+    background-color: #007f86;
+    border-radius: 3px;
+    border: 1px solid #fbfbfb;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-10:hover {
+    background-color: #03afb8;
+    color: white;
+}
+
+
+
+
+.Burger-Cali-img-1 {
+    background-image: url(./image/11.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 120px;
+    height: 120px;
+    border-radius: 15px;
+}
+
+.Burger-Cali-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.Burger-Cali-No-text-1 {
+    margin-top: 107px;
+    margin-left: 25px;
+}
+
+.Burger-Cali-img-1-text-1 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.Burger-Cali-img-1-text-2 {
+    max-width: 375px;
+    font-size: 15px;
+    color: #5d5d5d;
+}
+
+.bba-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.a11 {
+    display: flex;
+    align-items: baseline;
+    flex-direction: row;
+    align-content: flex-start;
+    justify-content: space-evenly;
+}
+
+.button-10 {
+    background-color: #007f86;
+    border-radius: 3px;
+    border: 1px solid #fbfbfb;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-10:hover {
+    background-color: #03afb8;
+    color: white;
+}
+
+.Burger-Bacon-Buddy-img-1 {
+    background-image: url(./image/12.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 120px;
+    height: 120px;
+    border-radius: 15px;
+}
+
+.Burger-Bacon-Buddy {
+    margin-left: 100px;
+}
+
+.Burger-Bacon-Buddy-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.Burger-Bacon-Buddy-No-text-1 {
+    margin-top: 107px;
+    margin-left: 25px;
+}
+
+.Burger-Bacon-Buddy-img-1-text-1 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.Burger-Bacon-Buddy-img-1-text-2 {
+    max-width: 375px;
+    font-size: 15px;
+    color: #5d5d5d;
+}
+
+
+.a11 {
+    display: flex;
+    align-items: baseline;
+    flex-direction: row;
+    align-content: flex-start;
+    justify-content: space-evenly;
+}
+
+.button-10 {
+    background-color: #007f86;
+    border-radius: 3px;
+    border: 1px solid #fbfbfb;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-10:hover {
+    background-color: #03afb8;
+    color: white;
+}
+
+
+
+.Burger-Spicy-img-1 {
+    background-image: url(./image/13.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 120px;
+    height: 120px;
+    border-radius: 15px;
+}
+
+.Burger-Spicy-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.Burger-Spicy-No-text-1 {
+    margin-top: 107px;
+    margin-left: 25px;
+}
+
+.Burger-Spicy-img-1-text-1 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.Burger-Spicy-img-1-text-2 {
+    max-width: 375px;
+    font-size: 15px;
+    color: #5d5d5d;
+}
+
+.bba-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.a11 {
+    display: flex;
+    align-items: baseline;
+    flex-direction: row;
+    align-content: flex-start;
+    justify-content: space-evenly;
+}
+
+.button-10 {
+    background-color: #007f86;
+    border-radius: 3px;
+    border: 1px solid #fbfbfb;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-10:hover {
+    background-color: #03afb8;
+    color: white;
+}
+
+.Burger-Classic-img-1 {
+    background-image: url(./image/14.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 120px;
+    height: 120px;
+    border-radius: 15px;
+}
+
+.Burger-Classic {
+    margin-left: 100px;
+}
+
+.Burger-Classic-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.Burger-Classic-No-text-1 {
+    margin-top: 107px;
+    margin-left: 25px;
+}
+
+.Burger-Classic-img-1-text-1 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.Burger-Classic-img-1-text-2 {
+    max-width: 375px;
+    font-size: 15px;
+    color: #5d5d5d;
+}
+
+
+.a11 {
+    display: flex;
+    align-items: baseline;
+    flex-direction: row;
+    align-content: flex-start;
+    justify-content: space-evenly;
+}
+
+.button-10 {
+    background-color: #007f86;
+    border-radius: 3px;
+    border: 1px solid #fbfbfb;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.15385;
+    margin: 0;
+    outline: none;
+    padding: 9px 2.8em;
+    position: relative;
+
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button-10:hover {
+    background-color: #03afb8;
+    color: white;
+}
+
+.button12 {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.Order-online-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.Order-online-img-1 {
+    background-image: url(./image/15.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 578px;
+    height: 585px;
+}
+
+.Order-online-text {
+    padding: 30px;
+}
+
+.Order-online-text-1 {
+    max-width: 500px;
+    font-weight: bold;
+    font-size: 49px;
+    color: #007f86;
+}
+
+.Order-online-text-2 {
+    max-width: 515px;
+    font-size: 16px;
+}
+
+.button13 {
+    justify-content: flex-start;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+
+}
+
+.Call-our-store-image {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.Call-our-store-img-1 {
+    background-image: url(./image/16.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 527px;
+    height: 567px;
+}
+
+.Call-our-store-text {
+    padding: 30px;
+}
+
+.Call-our-store-text-1 {
+    max-width: 555px;
+    font-weight: bold;
+    font-size: 49px;
+    color: #007f86;
+}
+
+.Call-our-store-text-2 {
+    max-width: 515px;
+    font-size: 16px;
+}
+
+.button14 {
+    justify-content: flex-start;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+
+}
+
+.good-food {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.good-food-img {
+    background-image: url(./image/17.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 657px;
+    height: 620px;
+    margin-top: 100px;
+}
+
+.good-food-bg-1 {
+    background-color: #35b8be;
+    margin-top: 100px;
+    background-image: url(./image/18.svg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 657px;
+    height: 620px;
+    padding: 0.1px;
+}
+
+.good-food-bg-text-1 {
+    font-size: 55px;
+    color: white;
+    width: 500px;
+    margin-top: 225px;
+    margin-left: 81px;
+}
+
+.button15 {
+    justify-content: flex-start;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    flex-direction: column;
+    align-content: center;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .Beautiful-food-img-1 {
+        background-image: url(./image/4.png);
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 350px;
+        height: 580px;
+    }
+
+    .fresh-products-img-1 {
+        background-image: url(./image/5.png);
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 350px;
+        height: 580px;
+        border-radius: 50%;
+    }
+
+    .fresh-products-text-1 {
+        max-width: 455px;
+        font-size: 37px;
+        font-weight: bold;
+    }
+
+    .Beautiful-food-text-1 {
+        max-width: 540px;
+        font-size: 35px;
+        font-weight: bold;
+    }
+
+    .fresh-products-text-2 {
+        max-width: 524px;
+        color: #3b3b3b;
+        font-weight: bold;
+        font-size: 15px;
+    }
+
+    .Beautiful-food-text-2 {
+        max-width: 524px;
+        color: #3b3b3b;
+        font-weight: bold;
+        font-size: 15px;
+    }
+
+    .works-text-1 {
+        font-weight: bold;
+        font-size: 50px;
+    }
+
+    .burgers {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .Burger-Waldo {
+        margin-left: 0px;
+    }
+
+    .Burger-Bacon-Buddy {
+        margin-left: 0px;
+    }
+
+    .Burger-Classic {
+        margin-left: 0px;
+    }
+
+    .Burger-Classic-img-1-text-1 {
+        font-size: 23px;
+        font-weight: bold;
+    }
+
+    .Burger-Bacon-Buddy-img-1-text-1 {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .good-food-bg-1 {
+        background-color: #35b8be;
+        margin-top: 100px;
+        background-image: url(./image/18.svg);
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 491px;
+        height: 620px;
+        padding: 0.1px;
+    }
+
+    .good-food-img {
+        background-image: url(./image/17.png);
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 350px;
+        height: 360px;
+        margin-top: 100px;
+    }
+
+    .good-food-bg-1 {
+        background-color: #35b8be;
+        margin-top: 100px;
+        background-image: url(./image/18.svg);
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 360px;
+        height: 494px;
+        padding: 0.1px;
+    }
+
+    .good-food-bg-text-1 {
+        font-size: 27px;
+        color: white;
+        width: 270px;
+        margin-top: 225px;
+        margin-left: 81px;
+    }
+}
